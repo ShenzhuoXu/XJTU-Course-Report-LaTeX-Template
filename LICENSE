@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) 2026 lnscq
+Copyright (c) 2026 lnscq (原始版本)
+Copyright (c) 2026 ShenzhuoXu (修改与新增部分)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +20,27 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+================================================================================
+图片与校方资源例外说明
+
+上述 MIT 授权仅适用于本仓库中的 LaTeX 源代码与说明文档，不适用于下列内容：
+
+    figs/logo.png 及其他包含西安交通大学校徽、校名、标识的图片资源
+
+上述图片资源的版权与商标权归西安交通大学所有。本仓库对其的使用仅为排版
+示例，不构成西安交通大学对本项目的任何授权、认可或背书。
+
+使用者如需使用这些资源，应自行确认并遵守西安交通大学的相关规定，并自行
+承担由此产生的全部责任。如相关权利人对本仓库的使用方式有异议，请联系本
+仓库维护者，我们将及时处理。
+
+================================================================================
+Note on Images and University Resources
+
+The MIT license above applies only to the LaTeX source code and documentation
+in this repository. It does NOT apply to the Xi'an Jiaotong University logo,
+name, or any other institutional marks contained in image assets such as
+figs/logo.png, all rights to which are reserved by Xi'an Jiaotong University.
+Their inclusion here is solely for typesetting demonstration and does not
+constitute any authorization, endorsement, or sponsorship by the University.
